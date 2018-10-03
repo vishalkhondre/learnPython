@@ -1,4 +1,4 @@
 # learnPython
 To learn basics of python hard way!!
 
-These are just some scripts that I used to learn some of the basics of python programming.
+These are some very basic scripts that I used to learn some of the basics concept of python programming.
